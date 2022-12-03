@@ -1,2 +1,2 @@
 # Guess-the-number
-It'a game to design for you to guess any numbers between 1 to 10.
+It's a simple game to designed for you to make a guess any numbers between 1 to 10.
